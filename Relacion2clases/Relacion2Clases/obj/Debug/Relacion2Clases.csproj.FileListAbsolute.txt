@@ -1,0 +1,6 @@
+E:\Programacion\3ºTrimestre\Clases\Relacion2Clases\Relacion2Clases\bin\Debug\Relacion2Clases.exe.config
+E:\Programacion\3ºTrimestre\Clases\Relacion2Clases\Relacion2Clases\bin\Debug\Relacion2Clases.exe
+E:\Programacion\3ºTrimestre\Clases\Relacion2Clases\Relacion2Clases\bin\Debug\Relacion2Clases.pdb
+E:\Programacion\3ºTrimestre\Clases\Relacion2Clases\Relacion2Clases\obj\Debug\Relacion2Clases.csprojResolveAssemblyReference.cache
+E:\Programacion\3ºTrimestre\Clases\Relacion2Clases\Relacion2Clases\obj\Debug\Relacion2Clases.exe
+E:\Programacion\3ºTrimestre\Clases\Relacion2Clases\Relacion2Clases\obj\Debug\Relacion2Clases.pdb
